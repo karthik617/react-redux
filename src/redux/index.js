@@ -1,2 +1,3 @@
-export { getUser } from "./User/userAction";
+export { fetchPost } from "./Post/postAction";
+export {fetchPostDetail} from "./PostDetail/detailAction"
 
